@@ -52,7 +52,7 @@ const expressiveConfig = {
 }
 
 export default defineConfig({
-    site: 'https://tarmac.rushingclouds.dev',
+    site: 'https://tarmac.rushingclouds.com',
     output: 'static',
     integrations: [
         starlight({
