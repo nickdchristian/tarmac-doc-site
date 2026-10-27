@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <style>
+    .p-top { fill: #18181B; }
+    .p-mid { fill: #52525B; }
+    .p-bot { fill: #71717A; }
+    @media (prefers-color-scheme: dark) {
+      .p-top { fill: #FAFAFA; }
+      .p-mid { fill: #A1A1AA; }
+      .p-bot { fill: #71717A; }
+    }
+  </style>
+  <path class="p-top" d="M16 2.5L27.5 9L16 15.5L4.5 9Z" />
+  <path class="p-mid" d="M4.5 13L16 19.5L27.5 13V16L16 22.5L4.5 16Z" />
+  <path class="p-bot" d="M4.5 20L16 26.5L27.5 20V23L16 29.5L4.5 23Z" />
+</svg>
